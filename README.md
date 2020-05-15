@@ -21,11 +21,12 @@ https://github.com/lugovskovp/FreeCAD-.step#ds1023-female-connector
 ![PBD-20](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/17.05.13(2).png)
 
 
-### How to make any pins .step file. 
+
+### How to make any quontity pins connector DS1023 in .step file. 
 
 ![PBD-20](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/17.46.00.png)
 
-For example, if needed **BS-6** (single row 6 female conns):
+For example, if needed **PBS-6** (single row 6 female conns) should be made next steps:
 - Download and setup FreeCAD.
 - Open in it **DS1023-connector-F PBS-PBD-ect.FCStd** file.
 - Choice **Connector array** in project tree (Pos. blue 1 on the picture above).
