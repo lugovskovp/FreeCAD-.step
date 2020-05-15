@@ -5,10 +5,16 @@ Some useful stuff for KiCAD and [DipTrace](https://www.diptrace.com/rus/) schema
 
 Use this for easy make .step files with different amount of sub-elements - see HowTo in any file paragfaph.
 
+Table of content:
+- [DS1023-female conn (PBS, PBD)](#ds1023-female-connector)
+
+
 ## DS1023-female connector.
-Aka PBS (single row), PBD (double) ect.
+Aka PBS (single row), PBD (double) ect. [Datasheet](https://static.chipdip.ru/lib/226/DOC000226931.pdf)
 
 Grey and black plastic variants in file **"/content/DS1023-connector-F PBS-PBD-ect.FCStd"**
+
+https://github.com/lugovskovp/FreeCAD-.step#ds1023-female-connector
 
  PBD-20 on Picture:
 
