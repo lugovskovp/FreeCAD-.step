@@ -36,8 +36,8 @@ Designation **`DS1023-X Y Z H`** , where:<br/>
 - **F1**: full gold flash<br/>
 
 **`H`** - Profile height (Dim "A"):<br/>
-- **1**: 8.5mm
-- **2**: 5mm
+- **1**: 8.5 mm
+- **2**: 5 mm
 
 ![Drawing](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/20.12.31.png)
 
@@ -48,7 +48,7 @@ Designation **`DS1023-X Y Z H`** , where:<br/>
 ## How to change body color
 
 - Select (click) **`Export plastic body`** in the project tree.
-- Press **'<Ctrl>+<D>`**, opened **"Material property"** dialogue.<br/>![Material property](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/22.55.08.png)
+- Press **`<Ctrl>+<D>`**, opened **"Material property"** dialogue.<br/>![Material property](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/22.55.08.png)
 - Place for click selected on the screenshot above, after that just choice color. All bodies will change their color to selected.
 
 ***Note: For black color plactic, better choice color dark grey, not black, #555555.***
