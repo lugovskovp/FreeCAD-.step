@@ -15,7 +15,7 @@ FreeCAD file: [826-6xx M pin connector PLS-PLD.FCStd](https://github.com/lugovsk
 
 ## Data.
 
-[Datasheet](http://www.farnell.com/datasheets/32535.pdf).
+[Datasheet 826-6xx](http://www.farnell.com/datasheets/32535.pdf).
 
 There are a lot of part numbers for this connector - part of they in spreadsheet in FreeCAD file. It seems like **826-6xx**, where **xx** - is digits.
 
