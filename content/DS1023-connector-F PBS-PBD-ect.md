@@ -1,0 +1,103 @@
+# DS1023-female connector.
+
+Aka PBS (single row), PBD (double), 254G3-xFVXX, FreeCAD file [DS1023-connector-F PBS-PBD-ect.FCStd](https://github.com/lugovskovp/FreeCAD-.step/blob/master/content/DS1023-connector-F%20PBS-PBD-ect.FCStd).
+
+
+
+### Table of content:
+
+- [Overall info](#data)
+- [How to change materials](#how-to-change-materials)
+- [How to change pin quontityes and dimensions](#how-to-change-pin-quantityes-and-dimensions)  
+- [How to export to .STEP](#how-to-export-to-step)
+
+
+
+## Data.
+
+[Datasheet DS1023-XXXX](https://static.chipdip.ru/lib/226/DOC000226931.pdf).
+
+[Another datasheet 254G3-xFVXX](http://files.rct.ru/pdf/connectors/254g3-2fvxx.pdf)
+
+**DS1023-X Y Z H**
+Where:<br/>
+**X** - No. of contacts: <br/>
+- 1*1 - 1*40
+- 2*2 - 2*40
+- 3*3 - 3*40<br/>
+**Y** - Mounting type, S: stright type<br/>
+**Z** - Contact plating:<br/>
+- 0: seletive gold flash
+- F1: full gold flash
+**H** - Profile height (Dim "A"):<br/>
+- 1: 8.5mm
+- 2: 5mm
+
+
+
+
+
+
+
+
+## 
+
+
+ **PBD-20** aka **DS1023-2*10 F1 S 2 ** on Picture:
+
+![PBD-20](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/17.05.13(2).png)
+
+
+
+
+
+
+
+
+### How to make any quontity pins connector DS1023 in .step file. 
+
+![PBD-20](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/17.46.00.png)
+
+For example, if needed **PBS-6** (single row 6 female conns) should be made next steps:
+
+
+And how to seems .step 3D model iported in DipTrace Pattern Editor.
+![DipTrace pattern editor](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/17.41.13.png)
+
+---------------------------------------------------------------------
+
+## How to change materials
+
+- Select (click) **Export plastic body** in the project tree.
+- Press **&lt;Ctrl&gt;+&lt;D&gt;**: it will open **"Material property"** dialogue.<br/>![Material property](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/22.55.08.png)
+- Place for click selected on the screenshot above, after that just choice color. All bodies will change their color to selected.
+
+***Note: For black color plactic, better choice color is dark grey, not black, #555555.***
+
+[Up](#table-of-content)
+
+
+
+
+## How to change pin quantityes and dimensions
+
+- Double click **Dimensions** in the project tree. Spreadsheet window opens.
+- For change something edit **ONLY** yellow-on-blue cells in the **&lt;Pin dimensions&gt;** spreadsheet.
+- ***`A`-Height*** - plastic body height.
+- ***Qty contacts X*** - quantity of contact in row to export.
+- ***Qty contacts Y*** - -//- in columns.
+
+All changes in all parts (3D view, draw, ect.) will appear after "**F5**" button pressing. Or immidiatly after editing.
+
+[Up](#table-of-content)
+
+
+
+## How to export to .STEP
+
+- Select (click) the **"Export metall connectors"** in project tree
+- After with pressed &lt;Cntrl&gt; click on **"Export plastic body"**.
+- Then Menu **File -> Export**, in appeared dialog select ***"STEP with colors (\*.step, \*.stp)"*** in extensions, and save with your name.
+
+
+[Up](#table-of-content)
