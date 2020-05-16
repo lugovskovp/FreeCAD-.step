@@ -25,14 +25,16 @@ And how to seems .step 3D model iported in DipTrace Pattern Editor.
 [Another datasheet 254G3-xFVXX](http://files.rct.ru/pdf/connectors/254g3-2fvxx.pdf)
 
 Designation **`DS1023-X Y Z H`** , where:<br/>
-**`X`** - No. of contacts: <br/>
+**`X`** - No. of contacts: 
 - 1\*1 - 1\*40
 - 2\*2 - 2\*40
-- 3\*3 - 3\*40<br/>
+- 3\*3 - 3\*40
+
 **`Y`** - Mounting type: S: stright type<br/>
 **`Z`** - Contact plating:<br/>
 - **0**: seletive gold flash
 - **F1**: full gold flash<br/>
+
 **`H`** - Profile height (Dim "A"):<br/>
 - **1**: 8.5mm
 - **2**: 5mm
@@ -44,7 +46,7 @@ Designation **`DS1023-X Y Z H`** , where:<br/>
 ## How to change body color
 
 - Select (click) **`Export plastic body`** in the project tree.
-- Press **<Ctrl>+<D>`**: it will open **"Material property"** dialogue.<br/>![Material property](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/22.55.08.png)
+- Press **'<Ctrl>+<D>`**, opened **"Material property"** dialogue.<br/>![Material property](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/22.55.08.png)
 - Place for click selected on the screenshot above, after that just choice color. All bodies will change their color to selected.
 
 ***Note: For black color plactic, better choice color dark grey, not black, #555555.***
