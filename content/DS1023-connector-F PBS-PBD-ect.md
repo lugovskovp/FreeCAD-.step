@@ -39,7 +39,7 @@ Designation **`DS1023-X Y Z H`** , where:<br/>
 - **1**: 8.5mm
 - **2**: 5mm
 
-![Drawing](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/20.12.31.png )
+![Drawing](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/20.12.31.png)
 
 [Up](#example)
 
