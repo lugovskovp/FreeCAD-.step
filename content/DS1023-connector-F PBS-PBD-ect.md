@@ -9,7 +9,7 @@ FreeCAD file [DS1023-connector-F PBS-PBD-ect.FCStd](https://github.com/lugovskov
 ## Example:
 
 Imagine, needed black **PBS-6** (single row 6 female conns), should be got by made next steps: 
-- [set](#how-to-change-contacts-quontitie-and-dimensions) `Qty contacts X` and `Qty contacts X` as **6**  and **1** in the yellow-on-blue cells.
+- [set](#how-to-change-pin-quantityes-and-dimensions) `Qty contacts X` and `Qty contacts X` as **6**  and **1** in the yellow-on-blue cells.
 - [change body color](#how-to-change-body-color) to Dark Grey(#555555).
 - [export](#how-to-export-to-step) .step model file.
 
