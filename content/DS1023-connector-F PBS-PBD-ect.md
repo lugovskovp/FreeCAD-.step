@@ -1,12 +1,14 @@
 # DS1023-female connector.
 
-Aka PBS (single row), PBD (double), 254G3-xFVXX, FreeCAD file [DS1023-connector-F PBS-PBD-ect.FCStd](https://github.com/lugovskovp/FreeCAD-.step/blob/master/content/DS1023-connector-F%20PBS-PBD-ect.FCStd).
+Aka PBS (single row), PBD (double row), 254G3-2FVXX (double row)
+
+FreeCAD file [DS1023-connector-F PBS-PBD-ect.FCStd](https://github.com/lugovskovp/FreeCAD-.step/blob/master/content/DS1023-connector-F%20PBS-PBD-ect.FCStd).
 
 
 
 ## Example:
 
-For example, if needed **PBS-6** (single row 6 female conns) should be made next steps: 
+Imagine, needed black **PBS-6** (single row 6 female conns), should be got by made next steps: 
 - [set](#how-to-change-contacts-quontitie-and-dimensions) `Qty contacts X` and `Qty contacts X` as **6**  and **1** in the yellow-on-blue cells.
 - [change body color](#how-to-change-body-color) to Dark Grey(#555555).
 - [export](#how-to-export-to-step) .step model file.
@@ -22,19 +24,18 @@ And how to seems .step 3D model iported in DipTrace Pattern Editor.
 
 [Another datasheet 254G3-xFVXX](http://files.rct.ru/pdf/connectors/254g3-2fvxx.pdf)
 
-**DS1023-X Y Z H**
-Where:<br/>
-**X** - No. of contacts: <br/>
-- 1*1 - 1*40
-- 2*2 - 2*40
-- 3*3 - 3*40<br/>
-**Y** - Mounting type, S: stright type<br/>
-**Z** - Contact plating:<br/>
-- 0: seletive gold flash
-- F1: full gold flash
-**H** - Profile height (Dim "A"):<br/>
-- 1: 8.5mm
-- 2: 5mm
+Designation **`DS1023-X Y Z H`** , where:<br/>
+**`X`** - No. of contacts: <br/>
+- 1\*1 - 1\*40
+- 2\*2 - 2\*40
+- 3\*3 - 3\*40<br/>
+**`Y`** - Mounting type: S: stright type<br/>
+**`Z`** - Contact plating:<br/>
+- **0**: seletive gold flash
+- **F1**: full gold flash<br/>
+**`H`** - Profile height (Dim "A"):<br/>
+- **1**: 8.5mm
+- **2**: 5mm
 
 [Up](#example)
 
@@ -43,10 +44,10 @@ Where:<br/>
 ## How to change body color
 
 - Select (click) **`Export plastic body`** in the project tree.
-- Press **`&lt;Ctrl&gt;+&lt;D&gt;`**: it will open **"Material property"** dialogue.<br/>![Material property](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/22.55.08.png)
+- Press **<Ctrl>+<D>`**: it will open **"Material property"** dialogue.<br/>![Material property](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/22.55.08.png)
 - Place for click selected on the screenshot above, after that just choice color. All bodies will change their color to selected.
 
-***Note: For black color plactic, better choice color is dark grey, not black, #555555.***
+***Note: For black color plactic, better choice color dark grey, not black, #555555.***
 
 [Up](#example)
 
@@ -54,11 +55,13 @@ Where:<br/>
 
 ## How to change pin quantityes and dimensions
 
-- Double click **`Dimensions`** in the project tree. Spreadsheet window opens.
+![Dimentions](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/18.47.51.png)
+
+- Double click **`Dimensions`** in the project tree (see pix). Spreadsheet window opens.
 - For change something edit **ONLY** yellow-on-blue cells in the **`Pin dimensions`** spreadsheet.
 - ***`A-Height`*** - plastic body height.
 - ***`Qty contacts X`*** - quantity of contact in row to export.
-- ***`Qty contacts Y`*** - -//- in columns.
+- ***`Qty contacts Y`*** - same in columns.
 
 All changes in all parts (3D view, draw, ect.) will appear after "**F5**" button pressing. Or immidiatly after editing.
 
