@@ -34,7 +34,7 @@ Table in "Pin dimensions" spreadsheet has a standart row values for different pa
 - Press **&lt;Ctrl&gt;+&lt;D&gt;**: it will open **"Material property"** dialogue. ![Material property](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/22.55.08.png)
 - Place to click selected on the screenshot above, after that just choice color. All bodies will change their color to selected.
 
-***Note: For black color plactic, better choice color is dark grey, not black, #555555.***
+***Note: For black color plactic, better choice color dark grey, not black, #555555.***
 
 [Up](#table-of-content)
 
