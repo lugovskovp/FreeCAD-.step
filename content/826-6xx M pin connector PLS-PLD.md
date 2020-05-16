@@ -44,10 +44,10 @@ Table in "Pin dimensions" spreadsheet has a standart row values for different pa
 
 - Double click **Pin dimensions** in the project tree. Spreadsheet window opens (as on screenshot below).![Spreadsheet window](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/16.25.07.png) 
 - For change something edit **ONLY** yellow-on-blue cells in the **&lt;Pin dimensions&gt;** spreadsheet.
-- ***"A"height*** - change full pins height.
-- ***"C" Shift*** - change lower part of pins.
-- ***X qty*** - quantity of pins in row to export.
-- ***Y qty*** - -//- in columns.
+- ***`"A" height`*** - change full pins height.
+- ***`"C" Shift`*** - change lower part of pins.
+- ***`X qty`*** - quantity of pins in row to export.
+- ***`Y qty*`** - -//- in columns.
 
 All changes in all parts (3D view, draw, ect.) will appear after "**F5**" button pressing. Or immidiatly after editing.
 
