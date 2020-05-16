@@ -76,7 +76,7 @@ All changes in all parts (3D view, draw, ect.) will appear after "**F5**" button
 ## How to export to .STEP
 
 - Select (click) the **`"Export metall connectors"`** in project tree
-- After with pressed &lt;Cntrl&gt; click on **`"Export plastic body"`**.
+- After with pressed &lt;Ctrl&gt; click on **`"Export plastic body"`**.
 - Then Menu **File -> Export**, in appeared dialog select ***"STEP with colors (\*.step, \*.stp)"*** in extensions, and save with your name.
 
 [Up](#example)
