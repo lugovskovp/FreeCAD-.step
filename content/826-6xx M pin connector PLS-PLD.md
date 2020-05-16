@@ -25,11 +25,9 @@ Table in "Pin dimensions" spreadsheet has a standart row values for different pa
 
 
 ## How to change materials
- 
-- Select (click) **Export plastic body** in the project tree. 
-![Export plastic body](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/15.53.41.png)
-- Press **&lt;control&gt;+&lt;D&gt;**: it will open **"Material property"** dialogue.
-![Material property](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/22.55.08.png)
+ ![Export plastic body](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/15.53.41.png)
+- Select (click) **Export plastic body** in the project tree.
+- Press **&lt;control&gt;+&lt;D&gt;**: it will open **"Material property"** dialogue. ![Material property](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/22.55.08.png)
 - Place to click selected on the screenshot above, after that just choice color. All bodies will change their color to selected.
 
 ***Note: For black color plactic, better choice color is dark grey, not black, #555555.***
