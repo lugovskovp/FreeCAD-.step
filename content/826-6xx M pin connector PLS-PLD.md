@@ -28,6 +28,7 @@ Table in "Pin dimensions" spreadsheet has a standart row values for different pa
 
 
 ## How to change materials
+
  ![Export plastic body](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/15.53.41.png)
 - Select (click) **Export plastic body** in the project tree.
 - Press **&lt;Ctrl&gt;+&lt;D&gt;**: it will open **"Material property"** dialogue. ![Material property](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/22.55.08.png)
@@ -42,10 +43,10 @@ Table in "Pin dimensions" spreadsheet has a standart row values for different pa
 ## How to change pin quantityes and dimensions
 
 - Double click **Pin dimensions** in the project tree. Spreadsheet window opens (as on screenshot below).![Spreadsheet window](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/16.25.07.png) 
-- For change something edit **ONLY** yellow-on-blue cells in the &lt;Pin dimensions&gt; spreadsheet.
-- ***"A"height*** - change full pin height.
-- ***"C" Shift*** - change lo part of pin.
-- ***X qty*** - quontity of pins in row to export.
+- For change something edit **ONLY** yellow-on-blue cells in the **&lt;Pin dimensions&gt;** spreadsheet.
+- ***"A"height*** - change full pins height.
+- ***"C" Shift*** - change lower part of pins.
+- ***X qty*** - quantity of pins in row to export.
 - ***Y qty*** - -//- in columns.
 
 All changes in all parts (3D view, draw, ect.) will appear after "**F5**" button pressing. Or immidiatly after editing.
