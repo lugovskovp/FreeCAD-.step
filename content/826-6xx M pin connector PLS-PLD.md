@@ -47,7 +47,7 @@ Table in "Pin dimensions" spreadsheet has a standart row values for different pa
 - ***`"A" height`*** - change full pins height.
 - ***`"C" Shift`*** - change lower part of pins.
 - ***`X qty`*** - quantity of pins in row to export.
-- ***`Y qty*`** - -//- in columns.
+- ***`Y qty`*** - -//- in columns.
 
 All changes in all parts (3D view, draw, ect.) will appear after "**F5**" button pressing. Or immidiatly after editing.
 
