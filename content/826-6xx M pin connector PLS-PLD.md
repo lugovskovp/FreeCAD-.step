@@ -8,8 +8,8 @@ FreeCAD file [826-6xx M pin connector PLS-PLD.FCStd](https://github.com/lugovsko
 
 - [Overall info](#data)
 - [How to change materials](#how-to-change-materials)
-- [How to change pin quontityes and dimensions](#how-to-export-to-step)
-- [How to export to .STEP](#how-to-change-pin-quontityes-and-dimensions)
+- [How to change pin quontityes and dimensions](#how-to-change-pin-quantityes-and-dimensions)  
+- [How to export to .STEP](#how-to-export-to-step)
 
 
 
@@ -34,12 +34,12 @@ Table in "Pin dimensions" spreadsheet has a standart row values for different pa
 
 
 
-## How to change pin quontityes and dimensions
+## How to change pin quantityes and dimensions
 
 - Double click **Pin dimensions** in the project tree. Spreadsheet window opens (as on screenshot below).![Spreadsheet window](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/16.25.07.png) 
 - For change something edit **ONLY** yellow-on-blue cells in the &lt;Pin dimensions&gt; spreadsheet.
-- ***"A"*** height change full pin height.
-- ***"C"*** Shift change lo part of pin.
+- ***"A"height*** - change full pin height.
+- ***"C" Shift*** - change lo part of pin.
 - ***X qty*** - quontity of pins in row to export.
 - ***Y qty*** - -//- in columns.
 
