@@ -13,7 +13,8 @@ Imagine, needed black **PBS-6** (single row 6 female conns), should be got by ma
 - [change body color](#how-to-change-body-color) to Dark Grey(#555555).
 - [export](#how-to-export-to-step) .step model file.
 
-And how to seems .step 3D model iported in DipTrace Pattern Editor.
+And how to seems this resulted .step 3D model imported to DipTrace Pattern Editor.
+
 ![DipTrace pattern editor](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/17.41.13.png)
 
 
@@ -67,7 +68,7 @@ Designation **`DS1023-X Y Z H`** , where:<br/>
 - ***`Qty contacts X`*** - quantity of contact in row to export.
 - ***`Qty contacts Y`*** - same in columns.
 
-All changes in all parts (3D view, draw, ect.) will appear after "**F5**" button pressing. Or immidiatly after editing.
+All changes in all parts (3D view, draw, ect.) will appear after "**F5**" button pressing. Or immediatly after editing.
 
 [Up](#example)
 
