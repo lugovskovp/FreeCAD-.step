@@ -8,7 +8,7 @@ Use this for easy make .step files different colors and parametrical amount of c
 
 ## Table of content repository:
 
-- [826-6xx M pin connector PLS-PLD.FCStd](https://github.com/lugovskovp/FreeCAD-.step/blob/master/content/826-6xx%20M%20pin%20connector%20PLS-PLD.md) Features: connector counts parametrical editable from 1-40 to 3-40 in columns or rows, changed body plastic color, parametrical sizes.
+- [826-6xx M pin connector PLS-PLD](https://github.com/lugovskovp/FreeCAD-.step/blob/master/content/826-6xx%20M%20pin%20connector%20PLS-PLD.md) Features: connector counts parametrical editable from 1-40 to 3-40 in columns or rows, changed body plastic color, parametrical sizes.
 
 
 - [DS1023-female conn (PBS, PBD)](https://github.com/lugovskovp/FreeCAD-.step/blob/master/content/DS1023-connector-F%20PBS-PBD-ect.md) Features: pin counts parametrical editable from 1-40 to 3-40 in columns or rows, changed body plastic color, parametrical sizes.
