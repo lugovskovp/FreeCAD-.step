@@ -10,19 +10,19 @@ FreeCAD file: [DS1027-2B MJ-O MJ-C Jumpers 0.19.FCStd](https://github.com/lugovs
 ## Example:
 
 Next .step 3D jumpers models are avalible alredy from [content page](https://github.com/lugovskovp/FreeCAD-.step/tree/master/content).
-`
-DS1027-2 MJC-60 black 2pins.step
-DS1027-2 MJC-60 black 3pins.step
-DS1027-2 MJC-60 red 3pins.step
-DS1027-2 MJC-60 white 2pins.step
-DS1027-2 MJC-60 white 3pins.step
-DS1027-2 MJO-60 black 2pins.step
-DS1027-2 MJO-60 black 3pins.step
-DS1027-2 MJO-60 red 2pins.step
-DS1027-2 MJO-60 red 3pins.step
-`
+
+- DS1027-2 MJC-60 black 2pins.step
+- DS1027-2 MJC-60 black 3pins.step
+- DS1027-2 MJC-60 red 3pins.step
+- DS1027-2 MJC-60 white 2pins.step
+- DS1027-2 MJC-60 white 3pins.step
+- DS1027-2 MJO-60 black 2pins.step
+- DS1027-2 MJO-60 black 3pins.step
+- DS1027-2 MJO-60 red 2pins.step
+- DS1027-2 MJO-60 red 3pins.step
+
 Or you can produse own:
-- [set](#how-to-change-pin-quantityes-and-dimensions) pin height (`"A" - Height pin:`), down shift lower part pin (`"C" - Shift pin down:`), quantity pins (`X pin qty`) - 2 or 3, quantity rows pin (`Y pin qty`), jumper profile height (`JmprProfileHeight`), close or open type jumper: 1 or 0 (`JmprCloseTypeIfEq0`) in the yellow-on-blue cells on `Set Dimensions` spreadshit.
+- set pin height (`"A" - Height pin:`), down shift lower part pin (`"C" - Shift pin down:`), quantity pins (`X pin qty`) - 2 or 3, quantity rows pin (`Y pin qty`), jumper profile height (`JmprProfileHeight`), close or open type jumper: 1 or 0 (`JmprCloseTypeIfEq0`) in the yellow-on-blue cells on `Set Dimensions` spreadsheet.
 ![how to change Set Dimension pad](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/15.20.15.png)
 - [change body pin and jumper plastic color](#how-to-change-body-color).
 - [export](#how-to-export-to-step) .step model file.
@@ -39,7 +39,7 @@ And how to seems this resulted .step 3D model imported to DipTrace Pattern Edito
 
 [Datasheet DS1027-XXXX](http://files.rct.ru/pdf/connectors/ds1027-2.pdf).
 
-Product code designation ISO **`DS1027-X Y Z H`**, where:<br/>
+Product code designation ISO **`DS1027-X Y Z F H`**, where:<br/>
 **`X`** - No. of contacts: 
 - 2 : 2 contacts<br/>
 **`Y`** - Housing type:
@@ -53,7 +53,7 @@ Product code designation ISO **`DS1027-X Y Z H`**, where:<br/>
 - **W** : white
 - **E** : green
 - **R** : red<br/>
-**`Z`** - Contact plating:<br/>
+**`F`** - Contact plating:<br/>
 - **F1**: full gold flash
 - **N**: nickel
 - **2**: gold+nickel<br/>
@@ -61,11 +61,12 @@ Product code designation ISO **`DS1027-X Y Z H`**, where:<br/>
 - **0**: 6.0 mm
 - **1**: 6.47 mm
 
-(f.e.:DS1027-2BB20-N-016 - 2 contacts, closed type, black, gold_nickel plated, height 6 mm)
+(f.e.: `DS1027-2BB20-N-016` - 2 contacts, closed type, black, gold_nickel plated, height 6 mm)
+
 
 [Another datasheet MJC, MJO, MJH](http://files.rct.ru/pdf/connectors/he.pdf)
 
-**`MJ-X H Y Z`**:
+**`MJ-X H Y Z`**:<br/>
 **`X`** - Housing type:
 - **O** : open
 - **C** : close
@@ -111,7 +112,7 @@ Product code designation ISO **`DS1027-X Y Z H`**, where:<br/>
 
 ## How to export to .STEP
 
-- Select (click with &lt;Ctrl&gt; in project tree parts for export (there are 4, see screenshot)
-- Then Menu **File -> Export**, in appeared dialog select ***"STEP with colors (\*.step, \*.stp)"*** in extensions, and save with your name.
+- Select (click with &lt;Ctrl&gt; in project tree parts for export (there are 4, names starting from "Export ...", see screenshot)
+- Then Menu **File -> Export** (or `<Ctrl>+<E>`), in appeared dialog select ***"STEP with colors (\*.step, \*.stp)"*** in extensions, and save with your name.
 ![Material property](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/10.49.33.png )
 [Up](#example)
