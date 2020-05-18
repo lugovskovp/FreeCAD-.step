@@ -6,10 +6,11 @@ Some useful things for KiCAD and [DipTrace](https://www.diptrace.com/rus/) schem
 
 Use this stuff for easy make .step files different colors and parametrical amount of connectors - see HowTo's.
 
+
 ## How to to howto...
 
 ALL howto's means what first of all you need:
-- Download and setup FreeCAD.
+- Download and setup stable version FreeCAD (2020-05-18 it was v.0.18), if in description not any another version.
 - Open**.FCStd** file in it.
 
 
