@@ -63,6 +63,7 @@ Product code designation ISO **`DS1027-X Y Z F H`**, where:<br/>
 
 (f.e.: `DS1027-2BB20-N-016` - 2 contacts, closed type, black, gold_nickel plated, height 6 mm)
 
+![DipTrace](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/10.36.16.png)
 
 [Another datasheet MJC, MJO, MJH](http://files.rct.ru/pdf/connectors/he.pdf)
 
@@ -95,6 +96,7 @@ Product code designation ISO **`DS1027-X Y Z F H`**, where:<br/>
 ![Drawing](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/10.42.30.png)
 
 [Up](#example)
+
 
 
 
