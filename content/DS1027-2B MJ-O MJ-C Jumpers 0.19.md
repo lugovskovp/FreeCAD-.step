@@ -4,12 +4,12 @@ Uses for handle operate close circle between 2 pins. For change scheme or power 
 
 FreeCAD file: [DS1027-2B MJ-O MJ-C Jumpers 0.19.FCStd](https://github.com/lugovskovp/FreeCAD-.step/blob/master/content/DS1027-2B%20MJ-O%20MJ-C%20Jumpers%200.19.FCStd).
 
-***Attention! File maide in FreeCAD beta0.19. It can be opened and operated in stable 0.18 (I check it), bup Draw page not will work propetly. 3D .step files are prodused correctly anyway.***
+***Attention! File made in FreeCAD beta0.19. It can be opened and operated in stable 0.18 (I check it), bup Draw page not will work propetly. 3D .step files are prodused correctly anyway.***
 
 
 ## Example:
 
-Next .step 3D jumpers models are avalible alredy from [content page](https://github.com/lugovskovp/FreeCAD-.step/tree/master/content).
+Next .step 3D jumpers models are avalible alredy from [examples page](https://github.com/lugovskovp/FreeCAD-.step/tree/master/step).
 
 - DS1027-2 MJC-60 black 2pins.step
 - DS1027-2 MJC-60 black 3pins.step
@@ -21,8 +21,10 @@ Next .step 3D jumpers models are avalible alredy from [content page](https://git
 - DS1027-2 MJO-60 red 2pins.step
 - DS1027-2 MJO-60 red 3pins.step
 
+Nasme designations explain in [Data section](#data) of this file.
+
 Or you can produse own:
-- set pin height (`"A" - Height pin:`), down shift lower part pin (`"C" - Shift pin down:`), quantity pins (`X pin qty`) - 2 or 3, quantity rows pin (`Y pin qty`), jumper profile height (`JmprProfileHeight`), close or open type jumper: 1 or 0 (`JmprCloseTypeIfEq0`) in the yellow-on-blue cells on `Set Dimensions` spreadsheet.
+- set pin height (`"A" - Height pin:`), down shift lower part pin (`"C" - Shift pin down:`), quantity pins (`X pin qty`) - 2 or 3, quantity rows pin (`Y pin qty`) - 1 I think, jumper profile height (`JmprProfileHeight`), close or open type jumper: 1 or 0 (`JmprCloseTypeIfEq0`) in the yellow-on-blue cells on `Set Dimensions` spreadsheet.
 ![how to change Set Dimension pad](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/15.20.15.png)
 - [change body pin and jumper plastic color](#how-to-change-body-color).
 - [export](#how-to-export-to-step) .step model file.
