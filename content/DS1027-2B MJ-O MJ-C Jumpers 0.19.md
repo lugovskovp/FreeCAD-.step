@@ -27,10 +27,6 @@ Or you can produse own:
 - [change body pin and jumper plastic color](#how-to-change-body-color).
 - [export](#how-to-export-to-step) .step model file.
 
-And how to seems this resulted .step 3D model imported to DipTrace Pattern Editor.
-
-![DipTrace pattern editor](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/10.42.30.png)
-
 [Up](#example)
 
 
