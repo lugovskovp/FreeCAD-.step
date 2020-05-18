@@ -22,7 +22,7 @@ ALL howto's means what first of all you need:
 - [DS1023-female conn (PBS, PBD)](https://github.com/lugovskovp/FreeCAD-.step/blob/master/content/DS1023-connector-F%20PBS-PBD-ect.md) `FreeCADv0.18stable` Features: pin counts parametrical editable from 1-40 to 3-40 in columns or rows, changed body plastic color, parametrical sizes.
 ![DS1023-female connectors PBS, PBD](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/20.27.06.png)
  
-- [DS1027-2B MJ-O MJ-C Jumpers](https://github.com/lugovskovp/FreeCAD-.step/blob/master/content/DS1027-2B%20MJ-O%20MJ-C%20Jumpers%200.19.md) `!FreeCADv0.19beta!` Features: pin counts 2 or 3 parametrical editable, changed plastic pin and jumper bodies color, parametrical height, parametrical type of jumper: open or close. ***Attention!^ Maded in beta version FreeCAD v.019. File can be opened and operated in v.018, but drawing page will junk.***
+- [DS1027-2B MJ-O MJ-C Jumpers](https://github.com/lugovskovp/FreeCAD-.step/blob/master/content/DS1027-2B%20MJ-O%20MJ-C%20Jumpers%200.19.md) `!FreeCADv0.19beta!` Features: pin counts 2 or 3 parametrical editable, changed plastic pin and jumper bodies color, parametrical height, parametrical type of jumper: open or close. ***Attention! Maded in beta version FreeCAD v.019. File can be opened and operated in v.018, but...***
 ![DS1027-2B MJ-O MJ-C Jumpers](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/09.47.39.png)
 
 
