@@ -25,4 +25,6 @@ ALL howto's means what first of all you need:
 - [DS1027-2B MJ-O MJ-C Jumpers](https://github.com/lugovskovp/FreeCAD-.step/blob/master/content/DS1027-2B%20MJ-O%20MJ-C%20Jumpers%200.19.md) `!FreeCADv0.19beta!` Features: pin counts 2 or 3 parametrical editable, changed plastic pin and jumper bodies color, parametrical height, parametrical type of jumper: open or close. ***Attention! Maded in beta version FreeCAD v.019. File can be opened and operated in v.018, but...***
 ![DS1027-2B MJ-O MJ-C Jumpers](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/09.47.39.png)
 
-
+- [DX-BT18 BlueTooth module](https://github.com/lugovskovp/FreeCAD-.step/blob/master/content/DX-BT18%20BlueTooth%20module.md)
+***Attention! Maded in beta version FreeCAD v.019.***
+![DX-BT18 view in FreeCad adn .step](https://github.com/lugovskovp/FreeCAD-.step/blob/master/pix/15.42.41.png )
