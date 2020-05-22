@@ -7,6 +7,7 @@ FreeCAD file: [826-6xx M pin connector PLS-PLD.FCStd](https://github.com/lugovsk
 ### Table of content:
 
 - [Overall info](#data)
+- [Examples, ready to download .step](#example)
 - [How to change materials](#how-to-change-materials)
 - [How to change pin quontityes and dimensions](#how-to-change-pin-quantityes-and-dimensions)  
 - [How to export to .STEP](#how-to-export-to-step)
@@ -24,6 +25,25 @@ Part numbers differ by various height of pin, and lengtn lover part (slide pin d
 Table in "Pin dimensions" spreadsheet has a standart row values for different partnumbers.
 
 [Up](#table-of-content)
+
+
+## Example:
+
+Next .step 3D jumpers models are avalible alredy from [examples page](https://github.com/lugovskovp/FreeCAD-.step/tree/master/step).
+
+- PLS-1 black.step
+- PLS-1 green.step
+- PLS-1 red.step
+- PLS-1 white.step
+- PLS-2 black.step
+- PLS-2 green.step
+- PLS-2 red.step
+- PLS-2 white.step
+- PLS-3 black.step
+- PLS-3 green.step
+- PLS-3 red.step
+- PLS-3 white.step
+
 
 
 
