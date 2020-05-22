@@ -29,7 +29,7 @@ Table in "Pin dimensions" spreadsheet has a standart row values for different pa
 
 ## Example:
 
-Next .step 3D jumpers models are avalible alredy from [examples page](https://github.com/lugovskovp/FreeCAD-.step/tree/master/step).
+Next .step 3D pin connector models alredy are avalible from [examples page](https://github.com/lugovskovp/FreeCAD-.step/tree/master/step).
 
 - PLS-1 black.step
 - PLS-1 green.step
