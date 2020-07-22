@@ -12,6 +12,7 @@ Use this stuff for easy make .step files different colors and parametrical amoun
 ALL howto's means what first of all you need:
 - Download and setup stable version FreeCAD (2020-05-18 it was v.0.18), if in description not any another version.
 - Open**.FCStd** file in it.
+
 But if You do not need edir, You can just chouse and download ready .step models from theyr subpages.
 
 
